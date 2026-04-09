@@ -29,9 +29,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.datastax.oss</groupId>
+            <groupId>io.streamnative</groupId>
             <artifactId>pulsar-jms</artifactId>
-            <version>8.0.0</version>
+            <version>6.1.1</version>
         </dependency>
     </dependencies>
 
